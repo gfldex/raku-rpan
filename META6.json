@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "perl": "6.c",
+  "auth": "github:gfldex",
+  "provides": {
+  },
+  "build-depends": [
+  ],
+  "name": "RPAN",
+  "tags": [
+  ],
+  "resources": [
+  ],
+  "support": {
+    "source": null
+  },
+  "authors": [
+    "Wenzel P. P. Peppmeyer <wenzel.peppmeyer@gmx.de>"
+  ],
+  "description": "",
+  "source-url": "https://github.com/gfldex/raku-rpan.git",
+  "depends": [
+    "Test::META"
+  ],
+  "license": "Artistic-2.0",
+  "test-depends": [
+  ],
+  "meta-version": "0",
+  "production": false
+}
